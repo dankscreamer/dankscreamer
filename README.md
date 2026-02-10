@@ -22,12 +22,21 @@ I enjoy breaking things down until they stop being mysterious — then rebuildin
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dankscreamer&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dankscreamer&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dankscreamer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="420"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dankscreamer&theme=tokyonight&hide_border=true"
+    width="420"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankscreamer&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankscreamer&layout=compact&theme=tokyonight&hide_border=true"
+    width="420"
+  />
 </p>
 
 ---
