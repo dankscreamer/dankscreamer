@@ -1,73 +1,46 @@
-<h1 align="center">Hi, I’m Adit Singh 👋</h1>
+<h1 align="center">Adit Singh</h1>
 
 <p align="center">
-  <b>Computer Science • Physics • Systems Thinking</b>
+  <i>Computer Science Undergraduate & Systems Thinker</i>
 </p>
 
 <p align="center">
-  Building from first principles — logic gates before CPUs, probability before models.
-</p>
-
----
-
-## 🧠 About Me
-
-I’m a Computer Science undergraduate focused on deep understanding over shortcuts.  
-My interests sit at the intersection of computer science, physics, and computation-heavy systems.
-
-I enjoy breaking things down until they stop being mysterious — then rebuilding them better.
-
----
-
-## 📊 GitHub Activity
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dankscreamer&theme=github-dark-blue&border_radius=6&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000&card_height=300" alt="GitHub Streak" /></a>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🔨 What I’m Working On
+## 🧭 About
 
-- Digital logic (NAND → full systems)
-- Custom image formats & low-level file handling
-- Competitive programming fundamentals
-- Probability theory & linear algebra
-- Early computational physics experiments
+I’m an undergraduate focused on deep understanding over shortcuts, operating at the intersection of computer science, physics, and computation-heavy systems. I enjoy breaking things down until they stop being mysterious — then rebuilding them from first principles.
 
 ---
 
-## 🎯 Long-Term Direction
+## ⚡ Current Focus
 
-- Strong foundations in theory and implementation
-- Simulation-heavy and engine-level systems
-- Computational and particle physics
-- Teaching complex ideas clearly
+- **Systems:** Digital logic ($\text{NAND} \to \text{full systems}$), low-level file handling & custom formats
+- **Theory:** Probability theory, linear algebra, and competitive programming fundamentals
+- **Physics:** Early computational physics experiments & simulations
 
 ---
 
-## 📚 Learning Philosophy
+## 📐 Philosophy
 
-- First principles over memorization  
-- Build small, understand deeply, then scale  
-- Mistakes are data  
+> *“What I cannot build, I do not understand.”*
+
+- First principles over memorization.
+- Build small, understand deeply, then scale.
+- Mistakes are data.
 
 ---
 
 <p align="center">
-  <i>“What I cannot build, I do not understand.”</i>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=dankscreamer&theme=github-dark-blue&border_radius=6&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=900&card_height=180" alt="GitHub Streak" />
+  </a>
 </p>
